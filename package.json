@@ -1,0 +1,19 @@
+{
+  "name": "vs-button",
+  "version": "1.0.0",
+  "description": "Vivint Solar Button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solar-elements/VSButton.git"
+  },
+  "author": "Eric Butterfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solar-elements/VSButton/issues"
+  },
+  "homepage": "https://github.com/solar-elements/VSButton#readme"
+}
